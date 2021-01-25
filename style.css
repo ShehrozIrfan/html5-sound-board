@@ -32,13 +32,6 @@ p {
     text-align: center;
     height: 100vh;
 }
-#buttons {
-    background-color: rgb(161, 100, 223);
-    border: none;
-}
-#buttons:focus {
-    outline: none;
-}
 .btn {
     background-color: rebeccapurple;
     color: white;
